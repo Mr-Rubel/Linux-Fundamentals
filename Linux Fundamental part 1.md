@@ -1,0 +1,1 @@
+[linux](images/fundamentals-part-1.png)
