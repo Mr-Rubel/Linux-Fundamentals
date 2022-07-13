@@ -65,6 +65,6 @@ search the question in [google](https://www.google.com)
 
 ### Q: Use the cd command to navigate to this file and find out the new current working directory. What is the path?
 
-![path](path.png)
+![path](images/path.png)
 
 ### A: `/home/tryhackme/folder4`
