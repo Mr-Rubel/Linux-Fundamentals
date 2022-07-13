@@ -75,5 +75,6 @@ search the question in [google](https://www.google.com)
 ### Q: Use grep on `"access.log"` to find the flag that has a prefix of `"THM"`. What is the flag?
 
 ![thmaccess](images/thmaccess.png)
+    grep "THM" access.log
 
 ### A: `THM{ACCESS}`
