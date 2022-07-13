@@ -22,3 +22,8 @@ search the question in [google](https://www.google.com)
 <br/>
 
 **<h1>Task 3:</h1>**
+
+<h3>Q: I've deployed my first Linux machine!</h3>
+<br/>
+
+### A: `No answer need`
