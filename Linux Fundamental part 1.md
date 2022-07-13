@@ -1,3 +1,7 @@
 ![linux](images/fundamentals-part-1.png)
 
-**<h2>Task 1:</h2>**
+**<h1>Task 1:</h1>**
+
+<h3>Q:Let's get started!</h3>
+
+<h3>A: `No answer need`</h3>
