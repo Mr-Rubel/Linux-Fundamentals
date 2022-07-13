@@ -9,7 +9,6 @@
 
 **<h1>Task 2:</h1>**
 <br/>
-
 <h3>Q: Research: What year was the first release of a Linux operating system?</h3>
 <br/>
 
