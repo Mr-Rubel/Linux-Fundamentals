@@ -79,3 +79,51 @@ search the question in [google](https://www.google.com)
     grep "THM" access.log
 
 ### A: `THM{ACCESS}`
+
+### Q: And I still haven't found what I'm looking for!
+
+### A: No Answer need
+<br/>
+
+**<h1>Task 7:</h1>**
+
+### Q: If we wanted to run a command in the background, what operator would we want to use?
+
+![background](images/background.png)
+
+### A: `&`
+
+### Q: If I wanted to replace the contents of a file named `"passwords"` with the word `"password123"`, what would my command be?
+
+![password123](images/password123.png)
+
+### A: `echo password123 > passwords`
+
+### Q: Now if I wanted to add `"tryhackme"` to this file named `"passwords"` but also keep `"passwords123"`, what would my command be
+
+![passwords](images/passwords.png)
+
+### A: `echo tryhackme >> passwords`
+
+
+### Q: Now use the deployed Linux machine to put these into practice
+
+### A: No answer need
+<br/>
+
+**<h1>Task 8:</h1>**
+
+### Q: I'll have a play around!
+
+### A: No answer need
+<br/>
+
+**<h1>Task 9:</h1>**
+
+### Q: Terminate the machine deployed in this room from task 3.
+
+### A: No answer need
+
+### Q: JoinÂ Linux Fundamentals Part 2!
+
+### A: No answer need
