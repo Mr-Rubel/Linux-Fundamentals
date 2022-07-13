@@ -50,3 +50,9 @@ search the question in [google](https://www.google.com)
 ![howmanyfolder](images/howmanyfolder.png)
 
 ### A: `4`
+
+### Q: Which directory contains a file?
+
+![folder4](images/folder4.png)
+
+### A: `folder4`
