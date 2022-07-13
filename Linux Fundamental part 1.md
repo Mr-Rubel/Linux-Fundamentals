@@ -30,6 +30,6 @@ search the question in [google](https://www.google.com)
 
 **<h1>Task 4:</h1>**
 
-### Q: If we wanted to output the text '"TryHackMe"', what would our command be?
+### Q: If we wanted to output the text `"TryHackMe"`, what would our command be?
 
 ### A: `No answer need`
