@@ -32,4 +32,6 @@ search the question in [google](https://www.google.com)
 
 ### Q: If we wanted to output the text `"TryHackMe"`, what would our command be?
 
-### A: `No answer need`
+![echotryhackme](images/echoTryhackme.png)
+
+### A: `echo TryHackMe`
