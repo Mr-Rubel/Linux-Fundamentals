@@ -6,13 +6,20 @@
 
 ### A: `No answer need`
 <br/>
+
+**<h1>Task 1:</h1>**
 <br/>
+
 <h3>Q: Research: What year was the first release of a Linux operating system?</h3>
+<br/>
 
 search the question in [google](https://www.google.com)
 <br/>
+
 ![1991](images/1991.png)
+<br/>
 
 ### A: `1991`<br/>
+<br/>
 
-**<h1>Task 2:</h1>**
+**<h1>Task 3:</h1>**
