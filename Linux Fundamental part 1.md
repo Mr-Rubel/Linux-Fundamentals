@@ -56,3 +56,9 @@ search the question in [google](https://www.google.com)
 ![folder4](images/folder4.png)
 
 ### A: `folder4`
+
+### Q: What is the contents of this file?
+
+![note](images/helloworld.png)
+
+### A: `Hello World`
