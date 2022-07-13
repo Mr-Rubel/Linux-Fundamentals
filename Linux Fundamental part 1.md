@@ -68,3 +68,12 @@ search the question in [google](https://www.google.com)
 ![path](images/path.png)
 
 ### A: `/home/tryhackme/folder4`
+<br/>
+
+**<h1>Task 6:</h1>**
+
+### Q: Use grep on `"access.log"` to find the flag that has a prefix of `"THM"`. What is the flag?
+
+![thmaccess](images/thmaccess.png)
+
+### A: `THM{ACCESS}`
