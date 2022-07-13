@@ -35,3 +35,9 @@ search the question in [google](https://www.google.com)
 ![echotryhackme](images/echoTryhackme.png)
 
 ### A: `echo TryHackMe`
+
+### Q: What is the username of who you're logged in as on your deployed Linux machine?
+
+![tryhackme](images/tryhackme.png)
+
+### A: `tryhackme`
