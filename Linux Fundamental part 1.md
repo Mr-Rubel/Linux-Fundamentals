@@ -124,6 +124,6 @@ search the question in [google](https://www.google.com)
 
 ### A: No answer need
 
-### Q: JoinÂ Linux Fundamentals Part 2!
+### Q: Join Â [Linux Fundamentals Part 2](https://tryhackme.com/jr/linuxfundamentalspart2)!
 
 ### A: No answer need
